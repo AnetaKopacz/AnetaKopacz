@@ -46,16 +46,42 @@ Thanks for stopping by! 😊
 A group project developed as part of my university studies, using Python to simulate coffee shop operations and demonstrate object-oriented programming and design patterns.
 
 **What I worked on:**
-
 - Simulating café operations, including menu management and customer orders.
 - Implementing order processing and payment functionality.
 - Designing classes and objects to represent café operations.
 - Applying object-oriented programming principles in Python.
 
-
 **Technologies & Concepts:** Python, OOP, Classes & Objects
 
 [View project on GitHub](https://github.com/AnetaKopacz/coffee-shop-simulation)
+
+### 📚 Book Rental Management System — MySQL Database
+
+An individual university project developed for a Database Systems course, focused on relational database design and SQL implementation for a book rental management system.
+
+**What I worked on:**
+- Designed a relational database schema normalized to 3NF
+- Created tables, relationships, constraints, and sample data
+- Wrote SQL queries for data retrieval and analysis
+- Implemented views, functions, stored procedures, and triggers
+- Developed database logic for book loans, returns, and overdue fines
+
+**Technologies:** SQL, MySQL/MariaDB, DBeaver
+
+[View SQL scripts on GitHub](https://github.com/AnetaKopacz/book-rental-management-system)
+
+### 📊 Employee & HR Analytics Dashboard — Power BI
+
+An interactive Power BI report built using sample data to explore employee, recruitment, and training metrics. The report combines high-level KPIs with detailed views to support HR data analysis on a sample data from DataHeroes training.
+
+**What I worked on:**
+- Building Overview, Training, and Recruitment dashboards.
+- Visualizing workforce, recruitment pipeline, and training metrics.
+- Creating interactive charts, tables, and KPI cards.
+- Implementing drill-through pages for department-level and training-level analysis.
+- Using filters and slicers to explore data by department, training year, and other dimensions.
+
+**Technologies:** Power BI, Power Query, DAX
 
 
 ### 🩺 Pima Indians Diabetes — Data Analysis & Machine Learning
@@ -63,7 +89,6 @@ A group project developed as part of my university studies, using Python to simu
 An academic assignment completed as part of my university studies. The task involved selecting a dataset from the available datasets on Kaggle and using it to explore example medical data related to predicting the occurrence of diabetes.
 
 **What I worked on:**
-
 * **Exploratory Data Analysis (EDA):** examining descriptive statistics, correlations, and visualizing relationships within the dataset.
 * **Decision Tree:** training and visualizing a decision tree classifier to explore how the model makes predictions.
 * **Neural Network (MLP):** building and training a shallow multi-layer perceptron.
@@ -78,11 +103,9 @@ An academic assignment completed as part of my university studies. The task invo
 ### 📩 SMS Spam Classifier — Machine Learning
 
 An academic assignment focused on building a machine learning model to classify SMS messages as spam or legitimate messages (`ham`).
-
 The project uses the SMS Spam Collection dataset and demonstrates a basic text classification workflow in Python.
 
 **What I worked on:**
-
 * Preprocessing SMS data and converting text labels into numerical values
 * Using `CountVectorizer` to transform text messages into numerical features
 * Splitting the data into training and test sets
@@ -100,21 +123,6 @@ The project uses the SMS Spam Collection dataset and demonstrates a basic text c
 **Technologies:** Python, Pandas, Scikit-learn
 
 [View project on GitHub](https://github.com/AnetaKopacz/antispam_filter)
-
-### 📚 Book Rental Management System — Database
-
-An individual university project developed for a Database Systems course, focused on relational database design and SQL implementation for a book rental management system.
-
-**Project highlights:**
-- Designed a relational database schema normalized to 3NF
-- Created tables, relationships, constraints, and sample data
-- Wrote SQL queries for data retrieval and analysis
-- Implemented views, functions, stored procedures, and triggers
-- Developed database logic for book loans, returns, and overdue fines
-
-**Technologies:** SQL, MySQL/MariaDB, DBeaver
-
-[View SQL scripts on GitHub](https://github.com/AnetaKopacz/book-rental-management-system)
 
 
 ### 📫 Let's connect
