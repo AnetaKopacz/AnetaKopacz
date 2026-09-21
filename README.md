@@ -45,6 +45,16 @@ Thanks for stopping by! 😊
 ### ☕ Coffee Shop Simulation - Python and OOP
 A group project developed as part of my university studies, using Python to simulate coffee shop operations and demonstrate object-oriented programming and design patterns.
 
+**What I worked on:**
+
+- Simulating café operations, including menu management and customer orders.
+- Implementing order processing and payment functionality.
+- Designing classes and objects to represent café operations.
+- Applying object-oriented programming principles in Python.
+- Collaborating on a group project as part of my university studies.
+
+**Technologies & Concepts:** Python, OOP, Classes & Objects
+
 [View project on GitHub](https://github.com/AnetaKopacz/coffee-shop-simulation)
 
 
