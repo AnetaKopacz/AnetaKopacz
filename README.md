@@ -1,14 +1,15 @@
 # Building a New Perspective Through Data
 
-Curious by nature, with a passion for technology, a growing interest in data, and a knack for figuring things out. I enjoy learning new skills, exploring unfamiliar areas, and seeing where curiosity takes me.
+Curious by nature, with a passion for technology, a growing interest in data, and a knack for figuring things out. I enjoy learning new skills, exploring unfamiliar areas, and discovering new ways to approach problems.
 
-I'm Aneta, currently studying Computer Science with a specialization in AI & Data Science, while working towards a career in data analytics.
+I'm Aneta, currently studying Computer Science with a specialization in AI & Data Science while working towards a career in data analytics.
 
-With 10 years of professional experience across different sectors, I've had the chance to work in diverse environments, take on new challenges, and learn along the way. For the past few years, I've been working in Talent Acquisition, supporting hiring across Eastern European markets and collaborating with stakeholders in multiple countries.
+With 10 years of professional experience across different sectors, I've had the opportunity to work in diverse environments, take on new challenges, and develop a broad business perspective. For the past few years, I've been working in Talent Acquisition, supporting hiring across Eastern European markets and collaborating with stakeholders in multiple countries.
 
-My work has been about more than recruitment. I was also responsible for preparing and analyzing market data for Hungary, helping senior management make decisions about salary adjustments based on market conditions. I also contributed to similar work for Romania as part of a team.
+But my experience goes beyond recruitment. I've also worked with market data, preparing and analyzing insights for Hungary to support senior management in making decisions about salary adjustments based on market conditions. I contributed to similar work for Romania as part of a team.
 
-Seeing how data can shape real decisions made me want to explore the analytical side of my work even further.
+Seeing how data can inform real-world decisions sparked my interest in exploring the analytical side of business more deeply. Now, I'm building on my business experience by developing my technical skills and exploring how data can help answer questions, uncover patterns, and support better decisions.
+
 
 ### 💻 Why data?
 
