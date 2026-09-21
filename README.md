@@ -61,7 +61,7 @@ An academic assignment completed as part of my university studies. The task invo
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-[View notebook in Google Colab](https://colab.research.google.com/drive/1iPeE_JIwj7Hno0hNwvguxhJr0s_h2Sw-?usp=sharing)
+[View project on GitHub](https://github.com/AnetaKopacz/pima-indians-diabetes-analysis)
 
 
 ### 📫 Let's connect
