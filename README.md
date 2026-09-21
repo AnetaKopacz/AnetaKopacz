@@ -101,6 +101,21 @@ The project uses the SMS Spam Collection dataset and demonstrates a basic text c
 
 [View project on GitHub](https://github.com/AnetaKopacz/antispam_filter)
 
+### 📚 Book Rental Management System — Database
+
+An individual university project developed for a Database Systems course, focused on relational database design and SQL implementation for a book rental management system.
+
+**Project highlights:**
+- Designed a relational database schema normalized to 3NF
+- Created tables, relationships, constraints, and sample data
+- Wrote SQL queries for data retrieval and analysis
+- Implemented views, functions, stored procedures, and triggers
+- Developed database logic for book loans, returns, and overdue fines
+
+**Technologies:** SQL, MySQL/MariaDB, DBeaver
+
+[View SQL scripts on GitHub](https://github.com/AnetaKopacz/book-rental-management-system)
+
 
 ### 📫 Let's connect
 
