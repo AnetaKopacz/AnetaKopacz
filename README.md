@@ -31,6 +31,13 @@ I'm especially interested in clinical data analytics, where data, technology, an
 
 I'm learning about clinical trial data, data quality, clinical data management, and ways to use analytical tools to make complex data easier to understand.
 
+## ☕ My Projects
+
+### Coffee Shop Simulation
+A group project developed as part of my university studies, using Python to simulate coffee shop operations and demonstrate object-oriented programming and design patterns.
+
+[View project on GitHub](https://github.com/AnetaKopacz/coffee-shop-simulation)
+
 ### 🚀 A little more about my journey
 
 This GitHub is where I document what I'm learning, experiment with new tools, and build projects along the way.
