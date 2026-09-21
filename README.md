@@ -39,12 +39,30 @@ Some projects come from my studies, others from things I simply want to figure o
 
 Thanks for stopping by! 😊
 
-## ☕ My Projects
+## My Projects
 
-### Coffee Shop Simulation
+### ☕ Coffee Shop Simulation
 A group project developed as part of my university studies, using Python to simulate coffee shop operations and demonstrate object-oriented programming and design patterns.
 
 [View project on GitHub](https://github.com/AnetaKopacz/coffee-shop-simulation)
+
+
+### 🩺 Pima Indians Diabetes — Data Analysis & Machine Learning
+
+An academic assignment completed as part of my university studies. The task involved selecting a dataset from the available datasets on Kaggle and using it to explore example medical data related to predicting the occurrence of diabetes.
+
+**What I worked on:**
+
+* **Exploratory Data Analysis (EDA):** examining descriptive statistics, correlations, and visualizing relationships within the dataset.
+* **Decision Tree:** training and visualizing a decision tree classifier to explore how the model makes predictions.
+* **Neural Network (MLP):** building and training a shallow multi-layer perceptron.
+* **Model Evaluation:** comparing model performance using classification metrics and analyzing the learning curve.
+* **Conclusions:** interpreting the results and comparing the performance of the two models.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+[View notebook in Google Colab](https://colab.research.google.com/drive/1iPeE_JIwj7Hno0hNwvguxhJr0s_h2Sw-?usp=sharing)
+
 
 ### 📫 Let's connect
 
