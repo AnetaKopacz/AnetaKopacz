@@ -51,7 +51,7 @@ A group project developed as part of my university studies, using Python to simu
 - Implementing order processing and payment functionality.
 - Designing classes and objects to represent café operations.
 - Applying object-oriented programming principles in Python.
-- Collaborating on a group project as part of my university studies.
+
 
 **Technologies & Concepts:** Python, OOP, Classes & Objects
 
