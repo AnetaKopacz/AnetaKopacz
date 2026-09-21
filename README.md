@@ -1,4 +1,4 @@
-# From talent to data 👋
+# Building a New Perspective Through Data
 
 Curious by nature, with a passion for technology, a growing interest in data, and a knack for figuring things out. I enjoy learning new skills, exploring unfamiliar areas, and seeing where curiosity takes me.
 
