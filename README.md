@@ -72,9 +72,11 @@ An individual university project developed for a Database Systems course, focuse
 
 ### 📊 Employee & HR Analytics Dashboard — Power BI
 
-An interactive Power BI report built using sample data to explore employee, recruitment, and training metrics. The report combines high-level KPIs with detailed views to support HR data analysis on a sample data from DataHeroes training.
+An interactive Power BI report built using sample data to explore employee, recruitment, and training metrics. The report combines high-level KPIs with detailed views to support HR data analysis on a fictional sample data from DataHeroes training.
 
 **What I worked on:**
+- Data Cleaning in Power Query
+- Basic DAX calculations
 - Building Overview, Training, and Recruitment dashboards.
 - Visualizing workforce, recruitment pipeline, and training metrics.
 - Creating interactive charts, tables, and KPI cards.
@@ -83,6 +85,7 @@ An interactive Power BI report built using sample data to explore employee, recr
 
 **Technologies:** Power BI, Power Query, DAX
 
+[View Project](https://github.com/AnetaKopacz/hr-analytics-powerbi-dashboard)
 
 ### 🩺 Pima Indians Diabetes — Data Analysis & Machine Learning
 
