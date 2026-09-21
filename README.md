@@ -41,4 +41,4 @@ Thanks for stopping by! 😊
 
 ### 📫 Let's connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/aneta-kopacz/)
