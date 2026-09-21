@@ -41,7 +41,7 @@ Thanks for stopping by! 😊
 
 ## My Projects
 
-### ☕ Coffee Shop Simulation
+### ☕ Coffee Shop Simulation - Python and OOP
 A group project developed as part of my university studies, using Python to simulate coffee shop operations and demonstrate object-oriented programming and design patterns.
 
 [View project on GitHub](https://github.com/AnetaKopacz/coffee-shop-simulation)
@@ -62,6 +62,33 @@ An academic assignment completed as part of my university studies. The task invo
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 [View project on GitHub](https://github.com/AnetaKopacz/pima-indians-diabetes-analysis)
+
+
+### 📩 SMS Spam Classifier — Machine Learning
+
+An academic assignment focused on building a machine learning model to classify SMS messages as spam or legitimate messages (`ham`).
+
+The project uses the SMS Spam Collection dataset and demonstrates a basic text classification workflow in Python.
+
+**What I worked on:**
+
+* Preprocessing SMS data and converting text labels into numerical values
+* Using `CountVectorizer` to transform text messages into numerical features
+* Splitting the data into training and test sets
+* Training a `MultinomialNB` classifier
+* Evaluating the model using Accuracy, Confusion Matrix, Precision, and Recall
+* Testing the classifier with custom SMS messages
+
+**Model Performance:**
+
+* Accuracy: 98.08%
+* Spam Precision: 0.91
+* Spam Recall: 0.96
+* Spam F1-score: 0.93
+
+**Technologies:** Python, Pandas, Scikit-learn
+
+[View project on GitHub](https://github.com/AnetaKopacz/antispam_filter)
 
 
 ### 📫 Let's connect
